@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anupvernekar31/Blind75/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupvernekar31/Blind75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anupvernekar31/Blind75/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anupvernekar31/Blind75/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
