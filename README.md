@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anupvernekar31/Blind75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupvernekar31/Blind75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/Blind75/tree/master/0128-longest-consecutive-sequence) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/anupvernekar31/Blind75/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupvernekar31/Blind75/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anupvernekar31/Blind75/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
