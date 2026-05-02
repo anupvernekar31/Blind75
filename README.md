@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anupvernekar31/Blind75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anupvernekar31/Blind75/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anupvernekar31/Blind75/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/anupvernekar31/Blind75/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupvernekar31/Blind75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/Blind75/tree/master/0128-longest-consecutive-sequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anupvernekar31/Blind75/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anupvernekar31/Blind75/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anupvernekar31/Blind75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0070-climbing-stairs) |
 ## Combinatorics
