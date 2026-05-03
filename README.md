@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anupvernekar31/Blind75/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anupvernekar31/Blind75/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/Blind75/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupvernekar31/Blind75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupvernekar31/Blind75/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anupvernekar31/Blind75/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/anupvernekar31/Blind75/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/Blind75/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
