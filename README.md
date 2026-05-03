@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/anupvernekar31/Blind75/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/Blind75/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0435-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anupvernekar31/Blind75/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anupvernekar31/Blind75/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/anupvernekar31/Blind75/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -187,10 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/Blind75/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anupvernekar31/Blind75/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0435-non-overlapping-intervals) |
 ## String Matching
 |  |
 | ------- |
