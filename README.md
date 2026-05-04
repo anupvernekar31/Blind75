@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anupvernekar31/Blind75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/anupvernekar31/Blind75/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anupvernekar31/Blind75/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/anupvernekar31/Blind75/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anupvernekar31/Blind75/tree/master/0057-insert-interval) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anupvernekar31/Blind75/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anupvernekar31/Blind75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupvernekar31/Blind75/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anupvernekar31/Blind75/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupvernekar31/Blind75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/anupvernekar31/Blind75/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/Blind75/tree/master/0347-top-k-frequent-elements) |
