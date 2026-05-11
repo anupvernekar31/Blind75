@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anupvernekar31/Blind75/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/anupvernekar31/Blind75/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/anupvernekar31/Blind75/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/Blind75/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/Blind75/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/Blind75/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/anupvernekar31/Blind75/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
