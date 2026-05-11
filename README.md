@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/Blind75/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anupvernekar31/Blind75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0435-non-overlapping-intervals) |
+| [2553-separate-the-digits-in-an-array](https://github.com/anupvernekar31/Blind75/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0054-spiral-matrix) |
+| [2553-separate-the-digits-in-an-array](https://github.com/anupvernekar31/Blind75/tree/master/2553-separate-the-digits-in-an-array) |
 ## Tree
 |  |
 | ------- |
