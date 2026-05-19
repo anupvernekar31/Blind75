@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anupvernekar31/Blind75/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/anupvernekar31/Blind75/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/Blind75/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anupvernekar31/Blind75/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/Blind75/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/Blind75/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/anupvernekar31/Blind75/tree/master/0516-longest-palindromic-subsequence) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupvernekar31/Blind75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anupvernekar31/Blind75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/anupvernekar31/Blind75/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anupvernekar31/Blind75/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/anupvernekar31/Blind75/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupvernekar31/Blind75/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anupvernekar31/Blind75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/Blind75/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anupvernekar31/Blind75/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/anupvernekar31/Blind75/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/Blind75/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/anupvernekar31/Blind75/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/Blind75/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anupvernekar31/Blind75/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Divide and Conquer
 |  |
 | ------- |
