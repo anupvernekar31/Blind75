@@ -341,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anupvernekar31/Blind75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anupvernekar31/Blind75/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
