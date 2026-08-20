@@ -349,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anupvernekar31/Blind75/tree/master/0124-binary-tree-maximum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anupvernekar31/Blind75/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anupvernekar31/Blind75/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
