@@ -5,7 +5,7 @@ public class Solution {
         for (int i = 0; i < 32; i++) {
             result <<= 1;          // make space
             result |= (n & 1);     // add last bit of n
-            n >>= 1;               // move to next bit
+            n = n >>> 1;               // move to next bit
         }
 
         return result;
