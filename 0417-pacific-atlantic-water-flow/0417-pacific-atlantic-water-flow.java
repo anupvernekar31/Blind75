@@ -40,17 +40,8 @@ class Solution {
             int ni = i + d[0];
             int nj = j + d[1];
 
-            if (ni < 0 || nj < 0 || ni >= m || nj >= n)
-                continue;
-
-            if (visited[ni][nj])
-                continue;
-
-            // reverse flow condition
-            if (heights[ni][nj] < heights[i][j])
-                continue;
-
-            dfs(heights, visited, ni, nj);
+            if (ni >= 0 && nj >= 0 && ni < m && nj < n &&  visited[ni][nj] ==false && heights[ni][nj] >= heights[i][j])  
+                dfs(heights, visited, ni, nj);
         }
     }
 }
