@@ -1,4 +1,8 @@
 class Solution {
+
+    // ===============================================================================
+    // THERE ARE 4 DIFFERENT WAYS MEMOIZATION, TABULATION, FOR PRINTING, BINARY SEARCH
+    // ===============================================================================
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
         
