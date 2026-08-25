@@ -25,8 +25,8 @@ class Solution {
             }
 
             // Odd-length palindrome
-            low = i - 1;
-            high = i + 1;
+            low = i;
+            high = i;
 
             while (low >= 0 && high < s.length()
                     && s.charAt(low) == s.charAt(high)) {
