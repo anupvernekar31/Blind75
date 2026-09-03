@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anupvernekar31/Blind75/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anupvernekar31/Blind75/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/anupvernekar31/Blind75/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/Blind75/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anupvernekar31/Blind75/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupvernekar31/Blind75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anupvernekar31/Blind75/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anupvernekar31/Blind75/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/anupvernekar31/Blind75/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anupvernekar31/Blind75/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
