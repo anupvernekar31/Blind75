@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anupvernekar31/Blind75/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anupvernekar31/Blind75/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anupvernekar31/Blind75/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anupvernekar31/Blind75/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anupvernekar31/Blind75/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/Blind75/tree/master/0347-top-k-frequent-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anupvernekar31/Blind75/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/anupvernekar31/Blind75/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/Blind75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/anupvernekar31/Blind75/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/anupvernekar31/Blind75/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/anupvernekar31/Blind75/tree/master/0647-palindromic-substrings) |
 ## Matrix
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupvernekar31/Blind75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/Blind75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anupvernekar31/Blind75/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anupvernekar31/Blind75/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search Tree
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/anupvernekar31/Blind75/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/anupvernekar31/Blind75/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anupvernekar31/Blind75/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/anupvernekar31/Blind75/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anupvernekar31/Blind75/tree/master/0371-sum-of-two-integers) |
 ## Design
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anupvernekar31/Blind75/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/anupvernekar31/Blind75/tree/master/0287-find-the-duplicate-number) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -416,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/Blind75/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anupvernekar31/Blind75/tree/master/0853-car-fleet) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anupvernekar31/Blind75/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
