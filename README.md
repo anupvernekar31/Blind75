@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anupvernekar31/Blind75/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anupvernekar31/Blind75/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anupvernekar31/Blind75/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/anupvernekar31/Blind75/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/Blind75/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anupvernekar31/Blind75/tree/master/0853-car-fleet) |
 ## Hash Table
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anupvernekar31/Blind75/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/Blind75/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anupvernekar31/Blind75/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/anupvernekar31/Blind75/tree/master/0295-find-median-from-data-stream) |
