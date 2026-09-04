@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/anupvernekar31/Blind75/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/anupvernekar31/Blind75/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/Blind75/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anupvernekar31/Blind75/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupvernekar31/Blind75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupvernekar31/Blind75/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anupvernekar31/Blind75/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/Blind75/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anupvernekar31/Blind75/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/anupvernekar31/Blind75/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/anupvernekar31/Blind75/tree/master/0212-word-search-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anupvernekar31/Blind75/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/anupvernekar31/Blind75/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupvernekar31/Blind75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/Blind75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
