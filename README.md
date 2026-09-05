@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/anupvernekar31/Blind75/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/anupvernekar31/Blind75/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/anupvernekar31/Blind75/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/anupvernekar31/Blind75/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/anupvernekar31/Blind75/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anupvernekar31/Blind75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anupvernekar31/Blind75/tree/master/0242-valid-anagram) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anupvernekar31/Blind75/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/anupvernekar31/Blind75/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/Blind75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/anupvernekar31/Blind75/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/anupvernekar31/Blind75/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/anupvernekar31/Blind75/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/anupvernekar31/Blind75/tree/master/0647-palindromic-substrings) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anupvernekar31/Blind75/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anupvernekar31/Blind75/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/anupvernekar31/Blind75/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/anupvernekar31/Blind75/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anupvernekar31/Blind75/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/Blind75/tree/master/0973-k-closest-points-to-origin) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anupvernekar31/Blind75/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/anupvernekar31/Blind75/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/anupvernekar31/Blind75/tree/master/0287-find-the-duplicate-number) |
 ## Binary Lifting
 |  |
