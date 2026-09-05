@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/anupvernekar31/Blind75/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/Blind75/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/anupvernekar31/Blind75/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/Blind75/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/Blind75/tree/master/0973-k-closest-points-to-origin) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anupvernekar31/Blind75/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/anupvernekar31/Blind75/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/anupvernekar31/Blind75/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/anupvernekar31/Blind75/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/anupvernekar31/Blind75/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
