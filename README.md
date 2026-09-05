@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anupvernekar31/Blind75/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/anupvernekar31/Blind75/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/Blind75/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/anupvernekar31/Blind75/tree/master/1046-last-stone-weight) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anupvernekar31/Blind75/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
 |  |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/Blind75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/anupvernekar31/Blind75/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/Blind75/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/anupvernekar31/Blind75/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
